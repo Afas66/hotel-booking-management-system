@@ -33,6 +33,7 @@ Hotels and hostels require efficient systems to manage room bookings, customer i
 - Multi-user support with different permission levels
 
 ### 👥 Customer Management
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151455.png" width="400"/>
 
 
 - Complete CRUD operations on customer records
@@ -42,6 +43,7 @@ Hotels and hostels require efficient systems to manage room bookings, customer i
 - Active/Inactive customer status tracking
 
 ### 🛏️ Room/Bed Management
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151521.png" width="400"/> 
 
 
 - Real-time room availability dashboard
@@ -52,6 +54,9 @@ Hotels and hostels require efficient systems to manage room bookings, customer i
 - Amenities and features listing
 
 ### 📅 Booking Management
+
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151539.png" width="400"/> 
+
 
 
 - Intuitive booking creation workflow
@@ -73,6 +78,7 @@ Hotels and hostels require efficient systems to manage room bookings, customer i
 
 ### 📊 Reports & Analytics
 
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151604.png" width="800"/>
 
 - Occupancy reports with date ranges
 - Revenue analytics and summaries
