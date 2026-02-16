@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A comprehensive desktop application for managing hotel and hostel room bookings. Built with modern C# .NET 8.0 and Windows Forms, featuring complete CRUD operations, role-based authentication, real-time analytics, and professional reporting capabilities.
-RoomBookingPro/docs/Screenshot 2026-02-16 151346.png
+
 *Real-time dashboard with statistics and analytics*
 
 ---
@@ -33,7 +33,7 @@ Hotels and hostels require efficient systems to manage room bookings, customer i
 - Multi-user support with different permission levels
 
 ### 👥 Customer Management
-RoomBookingPro/docs/Screenshot 2026-02-16 151455.png
+
 
 - Complete CRUD operations on customer records
 - Advanced search and filtering capabilities
@@ -42,7 +42,7 @@ RoomBookingPro/docs/Screenshot 2026-02-16 151455.png
 - Active/Inactive customer status tracking
 
 ### 🛏️ Room/Bed Management
-RoomBookingPro/docs/Screenshot 2026-02-16 151521.png
+
 
 - Real-time room availability dashboard
 - Multiple room types (Single, Double, Deluxe, Suite, Studio)
@@ -52,7 +52,7 @@ RoomBookingPro/docs/Screenshot 2026-02-16 151521.png
 - Amenities and features listing
 
 ### 📅 Booking Management
-RoomBookingPro/docs/Screenshot 2026-02-16 151539.png
+
 
 - Intuitive booking creation workflow
 - Automated rent and deposit calculation
@@ -72,7 +72,7 @@ RoomBookingPro/docs/Screenshot 2026-02-16 151539.png
 - Date range filtering and search
 
 ### 📊 Reports & Analytics
-RoomBookingPro/docs/Screenshot 2026-02-16 151604.png
+
 
 - Occupancy reports with date ranges
 - Revenue analytics and summaries
@@ -289,16 +289,16 @@ The system comes with pre-configured user accounts:
 ## 📸 Screenshots
 
 ### Splash Screen & Login
-<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151346.png" width="400"/> <img src="RoomBookingPro/docs/Screenshot 2026-02-16 151346.png"400"/>
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151012.png" width="400"/> 
 
 ### Dashboard
-<img src="docs/screenshots/3-dashboard.png" width="800"/>
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151346.png" width="800"/>
 
 ### Management Modules
-<img src="docs/screenshots/4-customer-management.png" width="400"/> <img src="docs/screenshots/5-room-management.png" width="400"/>
+<img src="" width="400"/>
 
 ### Booking & Payment
-<img src="docs/screenshots/6-booking-management.png" width="400"/> <img src="docs/screenshots/7-payment-management.png" width="400"/>
+<img src="docs/screenshots/6-booking-management.png" width="400"/> 
 
 ### Reports
 <img src="docs/screenshots/8-reports.png" width="800"/>
