@@ -296,9 +296,10 @@ The system comes with pre-configured user accounts:
 
 ### Management Modules
 <img src="RoomBookingPro/docs/Screenshot 2026-02-16 151455.png" width="400"/>
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151521.png" width="400"/> 
 
 ### Booking & Payment
-<img src="docs/screenshots/6-booking-management.png" width="400"/> 
+<img src="" width="400"/> 
 
 ### Reports
 <img src="docs/screenshots/8-reports.png" width="800"/>
