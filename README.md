@@ -289,7 +289,7 @@ The system comes with pre-configured user accounts:
 ## 📸 Screenshots
 
 ### Splash Screen & Login
-<img src="docs/screenshots/1-splash-screen.png" width="400"/> <img src="docs/screenshots/2-login-screen.png" width="400"/>
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151346.png" width="400"/> <img src="RoomBookingPro/docs/Screenshot 2026-02-16 151346.png"400"/>
 
 ### Dashboard
 <img src="docs/screenshots/3-dashboard.png" width="800"/>
