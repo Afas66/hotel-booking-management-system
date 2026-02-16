@@ -8,7 +8,7 @@
 
 A comprehensive desktop application for managing hotel and hostel room bookings. Built with modern C# .NET 8.0 and Windows Forms, featuring complete CRUD operations, role-based authentication, real-time analytics, and professional reporting capabilities.
 
-https://github.com/Afas66/hotel-booking-management-system/blob/main/RoomBookingPro/docs/Screenshot%202026-02-16%20151346.png
+RoomBookingPro/docs/Screenshot 2026-02-16 151346.png
 *Real-time dashboard with statistics and analytics*
 
 ---
