@@ -302,7 +302,7 @@ The system comes with pre-configured user accounts:
 <img src="RoomBookingPro/docs/Screenshot 2026-02-16 151539.png" width="400"/> 
 
 ### Reports
-<img src="docs/screenshots/8-reports.png" width="800"/>
+<img src="RoomBookingPro/docs/Screenshot 2026-02-16 151604.png" width="800"/>
 
 ---
 
