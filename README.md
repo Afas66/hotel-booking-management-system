@@ -7,7 +7,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A comprehensive desktop application for managing hotel and hostel room bookings. Built with modern C# .NET 8.0 and Windows Forms, featuring complete CRUD operations, role-based authentication, real-time analytics, and professional reporting capabilities.
-
 RoomBookingPro/docs/Screenshot 2026-02-16 151346.png
 *Real-time dashboard with statistics and analytics*
 
